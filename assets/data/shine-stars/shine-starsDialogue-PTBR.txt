@@ -1,0 +1,8 @@
+:jnz: Ei!
+:jnz: Você é o namorado da filha do ex rockstar, certo?
+:bf: Beep
+:jnz: Ah! Eu sempre quis te conhecer!
+:bf: Beep bop
+:jnz: Uma batalha de rap?
+:jnz: Sim! eu tava pensando nisso também!
+:jnz: Vamos começar!

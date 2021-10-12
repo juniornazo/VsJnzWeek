@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf Speak0000" x="0" y="0" width="309" height="367"/>
+	<SubTexture name="Gf Speak0001" x="309" y="0" width="309" height="367"/>
+	<SubTexture name="Gf Speak0002" x="618" y="0" width="309" height="367"/>
+	<SubTexture name="Gf Speak0003" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0004" x="309" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0005" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0006" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0007" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0008" x="0" y="0" width="309" height="367"/>
+	<SubTexture name="Gf Speak0009" x="309" y="0" width="309" height="367"/>
+	<SubTexture name="Gf Speak0010" x="618" y="0" width="309" height="367"/>
+	<SubTexture name="Gf Speak0011" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0012" x="309" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0013" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0014" x="0" y="367" width="309" height="367"/>
+	<SubTexture name="Gf Speak0015" x="0" y="367" width="309" height="367"/>
+</TextureAtlas>

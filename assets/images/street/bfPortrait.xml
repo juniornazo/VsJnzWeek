@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF miss0000" x="0" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0001" x="0" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0002" x="352" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0003" x="704" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0004" x="1056" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0005" x="1056" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0006" x="704" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0007" x="704" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0008" x="1056" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0009" x="1056" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0010" x="704" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0011" x="704" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0012" x="1056" y="0" width="352" height="289"/>
+	<SubTexture name="BF miss0013" x="1056" y="0" width="352" height="289"/>
+	<SubTexture name="Boyfriend portrait enter instance0000" x="1408" y="0" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0001" x="1408" y="0" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0002" x="0" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0003" x="345" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0004" x="345" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0005" x="690" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0006" x="690" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0007" x="690" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0008" x="1408" y="0" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0009" x="1408" y="0" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0010" x="0" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0011" x="345" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0012" x="345" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0013" x="690" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0014" x="690" y="289" width="345" height="274"/>
+	<SubTexture name="Boyfriend portrait enter instance0015" x="690" y="289" width="345" height="274"/>
+</TextureAtlas>

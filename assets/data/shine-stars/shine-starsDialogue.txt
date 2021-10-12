@@ -1,0 +1,8 @@
+:jnz: Hey!
+:jnz: You're the boyfriend of the daughter of ex rockstar, right?
+:bf: Beep
+:jnz: Ah! I always wanted to meet you!
+:bf: Beep Bop
+:jnz: A Rap-Battle?
+:jnz: Yes! I was thinking about it too!
+:jnz: Let's start!

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jnzPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mic break0000" x="0" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0001" x="443" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0002" x="443" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0003" x="886" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0004" x="886" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0005" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0006" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0007" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0008" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0009" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0010" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="mic break0011" x="1329" y="0" width="443" height="418"/>
+	<SubTexture name="portrait angry0000" x="1772" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0001" x="1772" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0002" x="2178" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0003" x="2584" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0004" x="2990" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0005" x="2990" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0006" x="1772" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0007" x="1772" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0008" x="2178" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0009" x="3396" y="0" width="406" height="391"/>
+	<SubTexture name="portrait angry0010" x="0" y="418" width="406" height="391"/>
+	<SubTexture name="portrait angry0011" x="0" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0000" x="406" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0001" x="406" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0002" x="812" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0003" x="1218" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0004" x="1624" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0005" x="1624" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0006" x="406" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0007" x="406" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0008" x="812" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0009" x="1218" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0010" x="2030" y="418" width="406" height="391"/>
+	<SubTexture name="portrait normal0011" x="2030" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0000" x="2436" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0001" x="2436" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0002" x="2842" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0003" x="3248" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0004" x="3654" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0005" x="3654" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0006" x="2436" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0007" x="2436" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0008" x="2842" y="418" width="406" height="391"/>
+	<SubTexture name="portrait pissed0009" x="0" y="809" width="406" height="391"/>
+	<SubTexture name="portrait pissed0010" x="406" y="809" width="406" height="391"/>
+	<SubTexture name="portrait pissed0011" x="406" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0000" x="812" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0001" x="812" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0002" x="1218" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0003" x="1624" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0004" x="2030" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0005" x="2030" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0006" x="2436" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0007" x="2436" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0008" x="2842" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0009" x="3248" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0010" x="3654" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0011" x="3654" y="809" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0012" x="0" y="1200" width="406" height="391"/>
+	<SubTexture name="portrait red eyes0013" x="0" y="1200" width="406" height="391"/>
+</TextureAtlas>
